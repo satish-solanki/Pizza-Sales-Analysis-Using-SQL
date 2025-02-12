@@ -25,5 +25,4 @@ This project analyzes pizza sales data to extract business insights using SQL. T
 
 ## 🏗️ How to Use
 1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/pizza-sales-sql.git
+   
