@@ -9,8 +9,12 @@ This project analyzes pizza sales data to extract business insights using SQL. T
 
 ## 🛠️ SQL Queries Used
 - `PizzaSalesAnalysis.sql` → Solution Queries
-## 🛠️ Presentation
-<img src="PizzaSalesAnalysis_presentation-compressed.pdf">
+## 🛠️ Home Page
+<img src="ProjectHomePage.pdf">
+### Presentation
+📄 [Presentation (PDF)]([https://github.com/your-username/your-repo/raw/main/Dashboards/Pizza_Sales_Home_Report_Dashboard.pdf](https://github.com/satish-solanki/Pizza-Sales-Analysis-Using-SQL/blob/main/PizzaSalesAnalysis_presentation-compressed.pdf))
+
+
 
 
 ## 📌 Key Insights
